@@ -14,3 +14,4 @@
 | 민재준 | jaejunmin408 | Python | 
 | 박승빈 | seungbinpark | Python |
 | 정지윤 | just-stopyoon | Python |
+| 박상규 | sangkyu39 | Python |
