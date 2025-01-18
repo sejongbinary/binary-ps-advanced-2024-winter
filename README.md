@@ -1,4 +1,4 @@
-# binary-ps-advanced-2024-summer
+# binary-ps-advanced-2024-winter
 2024 겨울방학 알고리즘 문제 해결(Problem Solving) 스터디
 
 ### :round_pushpin: 바로가기
